@@ -1,0 +1,16 @@
+{
+  "name": "newbot",
+  "version": "1.0.0",
+  "description": "My new Bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
